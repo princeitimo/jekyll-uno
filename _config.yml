@@ -10,10 +10,10 @@ baseurl: '/princeitimo.github.io/'
 
 author:
   name: 'PRINCE ITIMO'
-  email: itimoprince@gmail.com.com
+  email: 
   twitter_username: princeitimo
-  facebook_username: princeitimo
-  github_username:  princeitimo
+  facebook_username: 
+  github_username:  
   instagram_username:  princeitimo
 
 defaults:
